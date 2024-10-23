@@ -1,1 +1,1 @@
-[preview link](https://github.com/BahlulGaragurbanli/test-deploy.git)
+[preview link](https://test-deploy-self-nine.vercel.app)
